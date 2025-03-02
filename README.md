@@ -83,6 +83,7 @@ These functional and non-functional requirements, along with the use cases, will
 ## 3. Design
 
 When the program runs, a window with the user interface appears. It includes several text fields for the user to fill in. The simulation is executed with the entered data.
+
 ![Screenshot 2025-03-02 124920](https://github.com/user-attachments/assets/97cdd9e4-2807-4b6f-8a6c-b05456f193be)
 
 
