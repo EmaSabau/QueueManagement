@@ -92,18 +92,21 @@ There is also a class distribution in three major packages, and UML diagrams are
 ### GUI Package
 
 This package contains the class that handles the user interface program logic.
+
 ![Screenshot 2025-03-02 124941](https://github.com/user-attachments/assets/e950ff44-7405-442a-9c66-056692a1d710)
 
 
 ### LOGIC Package
 
 Here, we use an interface called *Strategy*, which defines a strategy. In our case, two strategies are used: *ConcreteStrategyTime* and *ConcreteStrategyQueue*.
+
 ![Screenshot 2025-03-02 124947](https://github.com/user-attachments/assets/038884d9-0e47-4d28-8037-7c7c1efeeecb)
 
 
 ### MODEL Package
 
 This package defines the structure of a task and a server to facilitate their use in the program's logic.
+
 ![Screenshot 2025-03-02 124953](https://github.com/user-attachments/assets/4e420b84-9ed0-441a-a406-7cf7c16a9e8d)
 
 
@@ -190,6 +193,7 @@ For testing the problem, three examples were available, specifically the ones sh
 
 
 For these examples, text files named *Test 1.txt*, *Test 2.txt*, and *Test 3.txt* were saved in the project directory.
+
 ![Screenshot 2025-03-02 124930](https://github.com/user-attachments/assets/34fbc026-797f-407d-83eb-bd28370167a0)
 
 ---
